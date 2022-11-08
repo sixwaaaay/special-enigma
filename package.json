@@ -1,0 +1,23 @@
+{
+  "name": "special-enigma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixwaaaay/special-enigma.git"
+  },
+  "author": "sixwaaaay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixwaaaay/special-enigma/issues"
+  },
+  "homepage": "https://github.com/sixwaaaay/special-enigma#readme",
+  "dependencies": {
+    "puppeteer": "^19.2.2",
+    "turndown": "^7.1.1"
+  }
+}
